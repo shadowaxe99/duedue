@@ -28,6 +28,8 @@ DueDue requires the following Python modules:
 - icalendar
 - PyPDF2
 
+- it's worth mentioning that the script currently hardcodes the directory paths, so the user needs to place the duedue.py file and the contract_to_calendar directory in the correct locations
+
 These can be installed with pip:
 
 ```bash
@@ -37,4 +39,4 @@ pip install datefinder icalendar PyPDF2
 bash
 Copy code
 pip install datefinder icalendar PyPDF2
-Please note that this README assumes the user is familiar with running Python scripts and installing Python modules. For a more detailed guide, you might want to include instructions on how to install Python and set up the script's environment. Also, it's worth mentioning that the script currently hardcodes the directory paths, so the user needs to place the duedue.py file and the contract_to_calendar directory in the correct locations
+
