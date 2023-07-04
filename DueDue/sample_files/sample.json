@@ -1,0 +1,24 @@
+{
+  "contracts": [
+    {
+      "contract_id": "001",
+      "contract_name": "Contract 1",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-31",
+      "parties_involved": [
+        "Party A",
+        "Party B"
+      ]
+    },
+    {
+      "contract_id": "002",
+      "contract_name": "Contract 2",
+      "start_date": "2022-02-01",
+      "end_date": "2023-01-31",
+      "parties_involved": [
+        "Party C",
+        "Party D"
+      ]
+    }
+  ]
+}
